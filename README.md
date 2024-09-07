@@ -1,6 +1,6 @@
 ## Máximo Corvalán | Desarrollador de Software 😊
 
-### Estudiante avanzado de Programación y Sistemas Informáticos.
+### Estudiante avanzado de Programación .
 
 #### ¿En que me especializo?✨
 * Aplicaciones de escritorio sobre .NET Framework con C# 
