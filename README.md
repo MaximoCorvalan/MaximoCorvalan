@@ -1,4 +1,4 @@
-## Máximo Corvalán | Desarrollador de SoftWare 😊
+## Máximo Corvalán | Desarrollador de Software 😊
 
 ### Estudiante avanzado de Programación y Sistemas Informáticos.
 
@@ -16,5 +16,5 @@
 * Videojuego.
 * paginas web con ASP.NET con un sistema CRUD
 ---
-[![Linkedin Badge](https://img.shields.io/badge/-lucasCaceres-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m%C3%A1ximo-corval%C3%A1n-874656234/)
-[![CV Badge](https://img.shields.io/badge/-CV-d20001?style=flat&labelColor=d20001&logo=DocuSign&logoColor=white)]([https://docs.google.com/document/d/1xwVDII2uA9NgWHiYnwWqNbxYv1jbk9ZZAab5ULG5Nhc/edit?usp=sharing](https://drive.google.com/file/d/1hCmFXmlghslXbwRfsW1MNzVN_W8CIJDA/view?usp=drive_link))
+[![Linkedin Badge](https://img.shields.io/badge/-MaximoCorvalan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m%C3%A1ximo-corval%C3%A1n-874656234/)
+[![CV Badge](https://img.shields.io/badge/-CV-d20001?style=flat&labelColor=d20001&logo=DocuSign&logoColor=white)](https://drive.google.com/file/d/1hCmFXmlghslXbwRfsW1MNzVN_W8CIJDA/view?usp=sharing)
